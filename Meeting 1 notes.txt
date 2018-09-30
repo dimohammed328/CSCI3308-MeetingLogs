@@ -5,6 +5,6 @@ We brainstormed to think of an idea. Ideas considered included:
     - Weather capture
     - Various web-based games
 
-We ended up settling on a web-based, multiplayer hang-man implementation.
+We ended up settling on a web-based, multiplayer song lyric guessing game.
 
-Then, we created the three required repositories and worked on the milestone.
+Then, we created the three required repositories and worked on the milestone, commited it, and adjourned the meeting.
