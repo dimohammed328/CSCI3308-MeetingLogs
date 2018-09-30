@@ -1,0 +1,10 @@
+Meeting 1 Notes:
+
+We brainstormed to think of an idea. Ideas considered included:
+    - Music visualizer using Spotify
+    - Weather capture
+    - Various web-based games
+
+We ended up settling on a web-based, multiplayer hang-man implementation.
+
+Then, we created the three required repositories and worked on the milestone.
